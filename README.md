@@ -1,1 +1,2 @@
-# Wp-Vue-Starter
+# wk-wp-erp-addon
+An WordPress plugin starter with Vue Js

@@ -1,0 +1,22 @@
+
+{
+    "name": "rabiul/wk-wp-erp-addon",
+    "description": "An WordPress plugin starter with Vue Js.",
+    "authors": [
+        {
+            "name": "MD. Rabiul Islam Robi",
+            "email": "robizmailbox@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "WkwpErpAddon\\Admin\\": "admin/",
+            "WkwpErpAddon\\Frontend\\": "frontend/",
+            "WkwpErpAddon\\Includes\\": "includes/",
+            "WkwpErpAddon\\Api\\": "api/"
+        }
+    },
+    "require-dev": {
+    }
+}
